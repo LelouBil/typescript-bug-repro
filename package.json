@@ -1,0 +1,15 @@
+{
+  "name": "tsrepro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
